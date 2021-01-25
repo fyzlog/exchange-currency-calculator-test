@@ -1,0 +1,16 @@
+{
+  "name": "exchange-currency-calculator-test",
+  "version": "0.0.1",
+  "description": "Test app for exchange-currency-calculator",
+  "main": "src/index.js",
+  "dependencies": {
+    "exchange-currency-calculator": "git+https://github.com/fyzlog/exchange-currency-calculator.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "exec:console": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugeny Bondarenko <eugeny.gurgen.bondarenko@gmail.com>",
+  "license": "ISC"
+}
